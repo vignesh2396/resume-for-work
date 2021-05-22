@@ -64,7 +64,12 @@ h3.main-heading .now {
     line-height: 24px;
     font-family: 'Roboto Condensed', sans-serif;
 }
-
+.profile-pic{
+    height: 186px;
+    width: 153px;
+    object-fit: cover;
+    object-position: center top;
+}
 /*-------------------/ Personal info /------------------------*/
 .personal-info {
     float      : left;
